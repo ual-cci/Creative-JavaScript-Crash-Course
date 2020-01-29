@@ -6,7 +6,7 @@ The material is all up on mimicproject.com. Here are the links in more or less t
 
 This cheatsheet is pretty handy too :
 
-https://github.com/micknoise/Advanced-Creative-Coding-1/blob/master/cheat-sheets/HTML5_Canvas_Cheat_Sheet.pdf
+https://github.com/ual-cci/Creative-JavaScript-Crash-Course/blob/master/HTML5_Canvas_Cheat_Sheet.pdf
 
 # Tutorials
 
