@@ -10,6 +10,9 @@ https://github.com/ual-cci/Creative-JavaScript-Crash-Course/blob/master/HTML5_Ca
 
 # Tutorials
 
+## Introduction Video
+[![Intro Video]({image-url})]({http://www.strangeloop.co.uk/js-videos/0-01_Intro.mp4} "Introduction")
+
 ## Creating a JavaScript Canvas
 https://mimicproject.com/code/9ef19ff5-d582-4b95-50eb-ea21a63dfb64
 ## Drawing a line
