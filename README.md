@@ -27,7 +27,7 @@ https://mimicproject.com/code/9ef19ff5-d582-4b95-50eb-ea21a63dfb64
 
 # Video 5: Simple logic (=, ==)
 http://strangeloop.co.uk/js-videos/0-05_Difference_between_=_and_==.mp4
-## Drawing a line
+## Project: Drawing a line
 https://mimicproject.com/code/b9b12af0-8811-44a3-5c5f-45221bfb7605
 
 # Video 6: More shapes
