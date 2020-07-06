@@ -14,10 +14,9 @@ https://github.com/ual-cci/Creative-JavaScript-Crash-Course/blob/master/HTML5_Ca
 
 # Video Tutorials
 
+# Video 1: Introduction Video
 [![Intro Video](http://www.strangeloop.co.uk/js-videos/js.png
 )](http://www.strangeloop.co.uk/js-videos/0-01_Intro.mp4 "Intro")
-
-# Video 1: Introduction Video
 http://www.strangeloop.co.uk/js-videos/0-01_Intro.mp4
 
 # Video 2: Basic Building Blocks
