@@ -68,7 +68,7 @@ http://strangeloop.co.uk/js-videos/0-10_Rotate.mp4
 ## Project: Rotate
 https://mimicproject.com/code/b7818244-4435-d97e-65ec-d16efcf80f55
 
-## Video 11: Keyboard Interaction
+# Video 11: Keyboard Interaction
 http://strangeloop.co.uk/js-videos/0-11_Keyboard_Interaction.mp4
 ## Project: Keyboard Interaction (Simple)
 https://mimicproject.com/code/b8d3fd2e-e639-8548-ced9-7fef0be8983b
