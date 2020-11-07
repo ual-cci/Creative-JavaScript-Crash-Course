@@ -2,7 +2,7 @@
 
 This is a crash course in Creative JavaScript that you can go through in a single day. It's aimed at the interested beginner. It mainly focuses on the JavaScript canvas, and covers the basics of interacting with web pages with JavaScript, creating a canvas, drawing simple shapes and lines, setting up animation processes, grabbing mouse and keyboard events, using sprites, going fullscreen, simple blending, translation and rotation, mouse interaction and simple simulations, whilst also getting you more familar with the basics of variables, conditionals, loops and functions. 
 
-The videos here introduce core principles, and talk you through the various projects one by one, but you should spend time with the projects themselves, and make sure to read the comments (text explanations). ALl the material is all up on mimicproject.com.
+The videos here introduce core principles, and talk you through the various projects one by one, but you should spend time with the projects themselves, and make sure to read the comments (text explanations). All the course material is available on mimicproject.com.
 
 Once you are bored of these examples (which shouldn't take very long), you should search https://www.mimicproject.com for more interesting examples - there are hundreds and hundreds of tutorials with full explanations of how they work, written straight in to the code. These cover interesting topics like 3D graphics, audio processing and machine learning.
 
