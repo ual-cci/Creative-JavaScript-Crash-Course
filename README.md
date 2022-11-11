@@ -18,7 +18,7 @@ Here are all the videos for the crash course via Panopto:
 
 https://ual.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22b00f90ac-13c1-45e1-81e3-af2a00a18a6b%22
 
-You can code along with these, and refer to the below examples if you need help getting them to work.
+You can code along with these, and refer to the below examples if you need help getting them to work. Thanks to Louis McCallum and Tom Lynch for migrating these!
 
 ## Project: Creating a JavaScript Canvas
 https://mimicproject.com/code/9ef19ff5-d582-4b95-50eb-ea21a63dfb64
